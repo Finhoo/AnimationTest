@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AnimationTest</string>
+    <string name="alpha_action">透明度动画</string>
+    <string name="rotate_action">旋转动画</string>
+    <string name="translate_action">移位动画</string>
+    <string name="scale_action">缩放动画</string>
+    <string name="AnimationSet">动画合集</string>
+    <string name="CustomAnimation">自定义动画</string>
+</resources>
